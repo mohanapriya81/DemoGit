@@ -23,20 +23,6 @@ h1 {
     background-color: #ffffff;
 }
 
-p.fungler {
-    padding:5px;
-    color:white;
-    background-color:darkblue;
-}
-p.morefun{
-    padding: 5px;
-    color: red;
-    background: yellow;
-}
-p.DarrylPara{
-    color:cornflowerblue; 
-    font-size:18px;
-}
 section {
     font-size: 2em;
     color: grey;
@@ -46,16 +32,4 @@ section p {
     margin:  0;
 }
 
-.indiao{
-    background-color: orange;
-    color: white;
-}
-.indiaw{
-    background-color: white;
-    color:black;
-}
-.indiag{
-    background-color: green;
-    color: white;
-}
 
